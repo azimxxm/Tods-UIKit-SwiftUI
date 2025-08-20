@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CA9923492E55CED1006F9EE2 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = CA9923482E55CED1006F9EE2 /* README.md */; };
 		CAF9A2402E559C080083EE63 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAF9A2322E559C080083EE63 /* AppDelegate.swift */; };
 		CAF9A2412E559C080083EE63 /* UsersVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAF9A2342E559C080083EE63 /* UsersVC.swift */; };
 		CAF9A2422E559C080083EE63 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAF9A23A2E559C080083EE63 /* SceneDelegate.swift */; };
@@ -33,6 +34,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		CA9923482E55CED1006F9EE2 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		CAF9A1922E559A070083EE63 /* Tods.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tods.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CAF9A2322E559C080083EE63 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CAF9A2332E559C080083EE63 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -74,6 +76,7 @@
 		CAF9A1892E559A070083EE63 = {
 			isa = PBXGroup;
 			children = (
+				CA9923482E55CED1006F9EE2 /* README.md */,
 				CAF9A23F2E559C080083EE63 /* Tods */,
 				CAF9A1932E559A070083EE63 /* Products */,
 			);
@@ -357,6 +360,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CA9923492E55CED1006F9EE2 /* README.md in Resources */,
 				CAF9A2472E559C080083EE63 /* Assets.xcassets in Resources */,
 				CAF9A2492E559C080083EE63 /* LaunchScreen.storyboard in Resources */,
 			);
