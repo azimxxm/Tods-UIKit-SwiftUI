@@ -5,6 +5,16 @@ The project makes use of jsonplaceholder as a mock API. For caching, FileManager
 The API layer is implemented with URLSession, using Codable models and a fully programmatic UI approach.
 
 
+# Personal opinion
+I enjoy working with SwiftUI because it feels more modern, efficient, and expressive.
+While UIKit is still powerful, it often requires a lot of boilerplate code.
+Personally, I prefer writing clean and modern code with the latest tools and features.
+
+I enjoy working with SwiftUI because it feels more modern, efficient, and expressive.
+While UIKit is still powerful, it often requires a lot of boilerplate code.
+Personally, I prefer writing clean and modern code with the latest tools and features.
+
+
 ## This is Task about
 
 ### TASK:
